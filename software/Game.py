@@ -22,7 +22,7 @@ while contador == 0:
 
 
 # Instanciando a classe Game
-jogo = Game()
+#jogo = Game()
 
 # Acessando o objeto PokemonCapturado dentro da classe Game
-print(f"Pokemon capturado no jogo: HP={jogo.pokemon_capturado.hp}, Dano={jogo.pokemon_capturado.dano}, Nível={jogo.pokemon_capturado.nivel}, Tipo={jogo.pokemon_capturado.tipo}")
+#print(f"Pokemon capturado no jogo: HP={jogo.pokemon_capturado.hp}, Dano={jogo.pokemon_capturado.dano}, Nível={jogo.pokemon_capturado.nivel}, Tipo={jogo.pokemon_capturado.tipo}")
