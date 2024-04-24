@@ -1,4 +1,4 @@
-from pokemon import PokemonCapturado
+from Pokemon import PokemonCapturado
 
 
 class Game:
